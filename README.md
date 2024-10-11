@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Cristhian Ayala</h1>
+<h1 align="center">Hi, I'm Cristhian Ayala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, Python, Bootstrap**
